@@ -1,0 +1,5 @@
+C:\PersonalProjects\TestMvc\DatabaseDesign\bin\Debug\DatabaseDesign.dacpac
+C:\PersonalProjects\TestMvc\DatabaseDesign\bin\Debug\DatabaseDesign.dll
+C:\PersonalProjects\TestMvc\DatabaseDesign\bin\Debug\DatabaseDesign.pdb
+C:\PersonalProjects\TestMvc\DatabaseDesign\obj\Debug\DatabaseDesign.dll
+C:\PersonalProjects\TestMvc\DatabaseDesign\obj\Debug\DatabaseDesign.pdb

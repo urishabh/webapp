@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMvc", "TestMvc\TestMvc.csproj", "{0D47D0FE-C37C-4504-A4A2-FCFDF2EEAAFB}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseDesign", "DatabaseDesign\DatabaseDesign.sqlproj", "{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D47D0FE-C37C-4504-A4A2-FCFDF2EEAAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D47D0FE-C37C-4504-A4A2-FCFDF2EEAAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D47D0FE-C37C-4504-A4A2-FCFDF2EEAAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D47D0FE-C37C-4504-A4A2-FCFDF2EEAAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE7442E-F4DA-4E65-BDB4-EF69A280BDC2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
